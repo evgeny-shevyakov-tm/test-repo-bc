@@ -1,0 +1,8 @@
+site_name: "meow"
+site_description: "mew"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "meow"
+  description: "mew"
+  annotations:
+    github.com/project-slug: evgeny-shevyakov-tm/test-repo-bc
+    backstage.io/techdocs-ref: url:https://github.com/evgeny-shevyakov-tm/test-repo-bc
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "me"
